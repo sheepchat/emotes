@@ -19,6 +19,11 @@
         "name": "kraken",
         "count": 504313
     },
+    "peka2tv": {
+        "format": "Peka2TV",
+        "name": "peka2tv",
+        "count": 881
+    },
     "regex": {
         "format": "Twitch.tv Basic",
         "name": "regex",
